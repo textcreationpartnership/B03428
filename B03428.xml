@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fanaticks barber. Or, A new cut for non-conformists. Being a true relation of the parson that was lately gelt at Chemsford in Essex, being taken in bed with another mans wife. Very proper to be sung in all corporations of this nation. All the town shan't save thee.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03428</idno>
+            <idno type="STC">Wing F401</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[80]</idno>
+            <idno type="EEBO-CITATION">99884962</idno>
+            <idno type="PROQUEST">ocm99884962</idno>
+            <idno type="VID">182750</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03428)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182750)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[80])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fanaticks barber. Or, A new cut for non-conformists. Being a true relation of the parson that was lately gelt at Chemsford in Essex, being taken in bed with another mans wife. Very proper to be sung in all corporations of this nation. All the town shan't save thee.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1655?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "O women, you that can so well ..."</note>
+                  <note>Woodcut illustration at head.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>In this edition, the title word "Barber" is followed by a raised period.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Adultery --  England --  Essex --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182750:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>THE FANATICKS BARBER. OR, A New Cut for <hi>NON-CONFORMISTS.</hi>
+            </head>
+            <argument>
+               <p>Being a true Relation of the <hi>PARSON</hi> that was lately Gelt at <hi>Chemsford</hi> in <hi>Eſſex,</hi> being taken in Bed with another Mans Wife.</p>
+               <p>Very proper to be ſung in all Corporations of this Nation. All the Town ſhan't ſave thee.</p>
+            </argument>
+            <p>
+               <figure/>
+               <figure/>
+            </p>
+            <lg>
+               <l>O Women, you that can ſo well</l>
+               <l>Bewaile your own misfortunes</l>
+               <l>Come cry with me, for man undone,</l>
+               <l>For acting 'tween the Curtaines,</l>
+            </lg>
+            <lg>
+               <l>They ſay the <hi>Saracens</hi> are cruel,</l>
+               <l>And <hi>Tartars</hi> they are grim;</l>
+               <l>But fie upon Chriſtian <hi>Engliſh</hi> man</l>
+               <l>They never did like him.</l>
+            </lg>
+            <lg>
+               <l>Now that I may your longing ſave</l>
+               <l>And ſet your tongues a gabling,</l>
+               <l>My ſong concerns a Parſon; Lord!</l>
+               <l>Well men of God be dabling?</l>
+            </lg>
+            <lg>
+               <l>Yea verily even ſo it is,</l>
+               <l>For mortal fleſh is frail;</l>
+               <l>And men of God like other men</l>
+               <l>Bear lecherie in tayle.</l>
+            </lg>
+            <lg>
+               <l>Ill tell it out, for Saints will crie</l>
+               <l>Give me a mare behind</l>
+               <l>If that a man muſt pay ſo dear</l>
+               <l>For boaring Woman kind.</l>
+            </lg>
+            <lg>
+               <l>Proceed therefore my doleful muſe;</l>
+               <l>In famous <hi>Eſſex</hi> where,</l>
+               <l>The Town which you do <hi>Chemsford</hi> call,</l>
+               <l>and thus it fell out there.</l>
+            </lg>
+            <lg>
+               <l>Thus did it fall out there I ſay,</l>
+               <l>The Parſon there did live,</l>
+               <l>They ſay he was a <hi>Presbyter</hi>
+               </l>
+               <l>The which I do believe.</l>
+            </lg>
+            <lg>
+               <l>Quoth he unto his Neighbours wiſe,</l>
+               <l>My Bowels earn for thee,</l>
+               <l>Asſiſt the feeder of thy ſoul</l>
+               <l>In his neceſſity.</l>
+            </lg>
+            <lg>
+               <l>Quoth ſhe, Oh Sir, it cannot be</l>
+               <l>That I my ſoul ſhould damn:</l>
+               <l>I'le warrant thee for that quoth he,</l>
+               <l>an't I thy Prieſt ſweet Lamb?</l>
+            </lg>
+            <lg>
+               <l>Why did not <hi>David</hi> lye, quoth he</l>
+               <l>with wife of bold <hi>
+                     <g ref="char:V">Ʋ</g>riah?</hi>
+               </l>
+               <l>You I ſay that he was puniſht for't,</l>
+               <l>But that my deare's a lie a.</l>
+            </lg>
+            <lg>
+               <l>With that they laie down both toge<g ref="char:EOLhyphen"/>ther</l>
+               <l>as doth the Lamb and Lion:</l>
+               <l>Let's get a holie ſeed, quoth he,</l>
+               <l>to thwack the foes of <hi>Zion.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But oh that Butcher butcherly,</l>
+               <l>that blinking bloody butcher,</l>
+               <l>That juſt came in, in nick of time,</l>
+               <l>as he was going to touch her.</l>
+            </lg>
+            <lg>
+               <l>So <hi>Troy</hi> Town after ten years wars</l>
+               <l>was taken unaware:</l>
+               <l>And as the learned do recount,</l>
+               <l>ſo <hi>Moſſe</hi> did catch his Mare.</l>
+            </lg>
+            <lg>
+               <l>They ſay cauſe Butcher came ſo pat,</l>
+               <l>he had ſome private item;</l>
+               <l>Some bid him call for witneſſes,</l>
+               <l>and afterwards indite him.</l>
+            </lg>
+            <lg>
+               <l>Dite him quoth he, with irefull face,</l>
+               <l>I'le dite him with a pox;</l>
+               <l>So up he went whetting his Knife,</l>
+               <l>and ſtreight bounc'd ope the locks</l>
+            </lg>
+            <lg>
+               <l>Judge how the Parſon looked then,</l>
+               <l>quo butcher, I come to kill ye;</l>
+               <l>With that his tool which was ſo crank</l>
+               <l>ſhrunk up into his belly.</l>
+            </lg>
+            <lg>
+               <l>Art thou fit others for to teach.</l>
+               <l>quo butcher then full gravely,</l>
+               <l>And do ſuch wicked things as theſe!</l>
+               <l>'God all the town ſhan't ſave thee.</l>
+            </lg>
+            <lg>
+               <l>The Prieſt thought to have ſcar'd the Butcher</l>
+               <l>with a ſyllogiſm in Celarent</l>
+               <l>Tar box quo to'ther, Prieſts were not made</l>
+               <l>
+                  <hi>ut Butchers wives amarent.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>With that he whip'd the bed cloaths off</l>
+               <l>and in his hand he caught um,</l>
+               <l>Quo he I'le have off every bit,</l>
+               <l>though 'twere a mile to the bottom,</l>
+            </lg>
+            <lg>
+               <l>O Caytiffe wretch, quo Parſon then</l>
+               <l>to make my fate ſo heavy;</l>
+               <l>The Turk ne're gave ſo deep a wound</l>
+               <l>unto the Tribe of <hi>Levy.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Quo Butcher, piſh—ſo Parſon laie,</l>
+               <l>in his own pickle ſprawling:</l>
+               <l>Ye bitch, quo he, unto his wife,</l>
+               <l>I ha' ſpoil'd your caterwauling.</l>
+            </lg>
+            <lg>
+               <l>Therefore all you that have long ears,</l>
+               <l>reach them unto my text,</l>
+               <l>For faith y'are all ſo given to't,</l>
+               <l>that God knows who'l be next.</l>
+            </lg>
+            <lg>
+               <l>For ſo it is now, that if ye ask</l>
+               <l>where all the ſawcie trade is,</l>
+               <l>Why Players among Gentlemen,</l>
+               <l>and Parſons among Ladies.</l>
+            </lg>
+            <lg>
+               <l>Therefore I pray you liſten well</l>
+               <l>to what ye have heard this daie,</l>
+               <l>Firſt of all cauſe by ſuch foul deeds</l>
+               <l>you will your ſelves bewray.</l>
+            </lg>
+            <lg>
+               <l>Secondlie for that you offend</l>
+               <l>the Brethren that are weak;</l>
+               <l>Thirdlie and laſtlie for your own</l>
+               <l>and this poor Parſons ſake.</l>
+            </lg>
+            <lg>
+               <l>Therefore I tell ye once again</l>
+               <l>take notice of my rime</l>
+               <l>Write it'th' tables of your hearts;</l>
+               <l>and ſo much for this time.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
